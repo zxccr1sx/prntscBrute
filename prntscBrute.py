@@ -2,7 +2,6 @@ import string
 import random 
 import time
 import webbrowser
-import requests
 
 
 print('\033[31m')
